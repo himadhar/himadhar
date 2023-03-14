@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @himadhar
-- 👀 I’m interested in frontend tech stack, HTML, CSS, JS (their preprocessors), Flutter, Android, iOS, designing on XD, PhotoShop, Illustrator.
+- 👀 I’m interested in frontend tech stack, HTML, CSS, JS (their preprocessors), Flutter, Android, iOS, designing on Figma, XD, PhotoShop, Illustrator.
 - 🌱 I’m currently learning usability and "comfort" based design, in both - code & design
 - 💞️ I’m looking to collaborate on volunteering for design and development projects
 - 📧 Reach me on connect@himadhar.com
