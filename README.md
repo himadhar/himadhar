@@ -5,7 +5,6 @@
 - 📧 Reach me on hi@himadhar.com
 
 Find me on:
-- https://himadhar.com/portfolio
 - https://www.linkedin.com/in/himadhar/
 
 I am always driven by the fact that things can be better than what they are now - and possible only by acting on them. 
